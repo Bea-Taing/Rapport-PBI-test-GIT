@@ -27,7 +27,7 @@
       "name": "2e9eccec0641a326f15d",
       "visualContainers": [
         {
-          "config": "{\"name\":\"27d13f0232ee8da38d54\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10,\"y\":0,\"width\":280,\"height\":280,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"hello\"}]}]}}]}}}",
+          "config": "{\"name\":\"27d13f0232ee8da38d54\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10,\"y\":0,\"width\":280,\"height\":280,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"hello toi\"}]}]}}]}}}",
           "filters": "[]",
           "height": 280.00,
           "width": 280.00,
